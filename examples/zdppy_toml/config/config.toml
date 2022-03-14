@@ -1,0 +1,17 @@
+debug = true
+
+# 普通字典
+[server]
+host = "127.0.0.1"
+port = 8888
+
+# 数组
+[arr]
+data = [1, 2, 3]
+
+# 嵌套
+[nesta]
+[nesta.nestb]
+a = 1
+b = 2
+c = 3
